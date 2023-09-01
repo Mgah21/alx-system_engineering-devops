@@ -1,7 +1,6 @@
 #!/bin/bash
-for file in *; do
-  chmod a+x $file
-done
+chmod a+x 11-directories_permissions
+
 
 
 
