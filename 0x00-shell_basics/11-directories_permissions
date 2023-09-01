@@ -1,3 +1,4 @@
 #!/bin/bash
-chmod -R g+x,o+x "$subdir"
+chmod -R g+x,o+x
+
 
