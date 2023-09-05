@@ -1,4 +1,4 @@
 #!/bin/bash
-perl -lne 'print if $. % 2 == 1'
+prl -lne 'print if $. % 2 == 1'
 
 
