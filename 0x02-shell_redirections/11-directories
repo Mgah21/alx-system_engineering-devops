@@ -1,5 +1,5 @@
 #!/bin/bash
-find . -type f -name  "*.git" | rev | cut  -d  "/" -fl  |cut -d '. '  2- | rev | LC _ALL =C sort -f
+find . -type f -name  "*.git" | rev | cut  -d  "/" -f1  |cut -d '. '  2- | rev | LC _ALL =C sort -f 
 
 
 
